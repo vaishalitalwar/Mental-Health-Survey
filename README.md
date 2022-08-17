@@ -12,3 +12,5 @@ Data Visualization: The second part of the analyses visualizes the entire datase
 Data Analysis: The third part is the crux of the project. We first conduct a spearman correlation to look at the relationships between various questions asked in the survey. We then explore and visualize the answers to two main questions - 
  1. What are the attributes of an employee who does seek mental health treatment, and what are the attributes of an employee who does not seek treatment?
  2. What are the demographics of employees who work remotely?
+
+Link for the Survey: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
